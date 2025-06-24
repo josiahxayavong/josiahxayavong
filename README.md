@@ -1,11 +1,11 @@
 ## Hi, I'm Josiah ✨
 
-🧠 Computer Information Systems Graduate from James Madison University
-☁️ Actively pursuing the AWS Solutions Architect – Associate certification to strengthen my cloud expertise
-💻 Passionate about building full-stack applications, databases, and intuitive user interfaces
-📈 Always learning and excited to take on new challenges in tech
-🔗 Let’s connect or collaborate on something awesome!
-🌐 [Portfolio](https://www.josiahxayavong.com/)
+🧠 Computer Information Systems Graduate from James Madison University  
+☁️ Actively pursuing the AWS Solutions Architect – Associate certification to strengthen my cloud expertise  
+💻 Passionate about building full-stack applications, databases, and intuitive user interfaces  
+📈 Always learning and excited to take on new challenges in tech  
+🔗 Let’s connect or collaborate on something awesome!  
+🌐 [Portfolio](https://www.josiahxayavong.com/)  
 
 
 ## 🌐 Socials:
